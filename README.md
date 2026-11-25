@@ -53,4 +53,4 @@ I love building **Minecraft modpacks**: I'm currently designing a multiplayer Co
 ---
 
 ## 📫 Contact
-[LinkedIn](LIEN_LINKEDIN) · tgoncalves@gaming.tech
+[LinkedIn](https://www.linkedin.com/in/teo-goncalves-a6b74a392/) · tgoncalves@gaming.tech
