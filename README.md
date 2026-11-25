@@ -46,6 +46,7 @@
 - Follow-up to a previous DirectX 11 engine (Actor/Component architecture, real-time editing tools)
 
 👉 [Repository](https://github.com/kuromiaou/GC-PROJEKT-RED)
+
 ---
 
 ## 🧩 Outside of school
