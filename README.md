@@ -30,7 +30,7 @@
 - Bouncing projectiles and a parry system
 - Network synchronization of player interactions
 
-👉 [Repository](LIEN_A_AJOUTER)
+👉 [Repository](https://github.com/TeoXpok/Multi3D)
 
 ### Crazy Gambling Casino — Game Jam 48h · Unreal Engine 5
 🏆 **1st place – jury & 1st place – students vote**
@@ -45,6 +45,7 @@
 - Math library (vectors, matrices, quaternions) and SDL rendering module
 - Follow-up to a previous DirectX 11 engine (Actor/Component architecture, real-time editing tools)
 
+👉 [Repository](https://github.com/kuromiaou/GC-PROJEKT-RED)
 ---
 
 ## 🧩 Outside of school
